@@ -1,3 +1,5 @@
+import React from 'react';
+
 export interface PageContent {
   id: string;
   title?: string;
